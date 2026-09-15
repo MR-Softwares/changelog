@@ -4,6 +4,7 @@ Release notes for every production deployment across all eSchool servers.
 
 | Date | Release |
 |------|---------|
+| 15-09-2026 | [v2026.09.15](releases/v2026.09.15.md) |
 | 14-09-2026 | [v2026.09.14](releases/v2026.09.14.md) |
 | 12-09-2026 | [v2026.09.12](releases/v2026.09.12.md) |
 | 02-09-2026 | [v2026.09.02](releases/v2026.09.02.md) |
